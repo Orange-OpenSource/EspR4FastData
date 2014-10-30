@@ -1,0 +1,18 @@
+This file lists all the third party libraries that are needed for compilation
+and available within this package.
+
+antlr           BSD License
+asm             BSD License
+cglib           Apache License 2.0
+commons-codec   Apache License 2.0
+commons-logging Apache License 2.0
+esper           GNU General Public License v2.0
+esperio-socket  GNU General Public License v2.0
+esperio-stax    GNU General Public License v2.0
+fluent-hc       Apache License 2.0
+jackson         Apache License 2.0
+jaxb            GNU General Public License v2.0
+jersey          GNU General Public License v3.0 with Classpath Exception
+jettison        Apache License 2.0
+jsr311-api      CDDL license
+log4j           Apache License 2.0
